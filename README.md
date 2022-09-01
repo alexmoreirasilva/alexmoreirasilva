@@ -25,9 +25,6 @@
 ##
  
 <div>
-
-![gif-github](https://user-images.githubusercontent.com/57776114/184043263-c3ccf1bf-557e-4536-b78b-08b916965ec7.gif)
-
   <a href="https://instagram.com/alex.msilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AlexMoreira#8321" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexmoreira64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
