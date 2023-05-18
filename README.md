@@ -18,7 +18,6 @@
   <img align="center" alt="Alex-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Alex-SqLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Alex-Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Alex-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
 
 
